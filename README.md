@@ -1,10 +1,11 @@
+![](./atx-hack-for-change.png)
+
 # ATX Hack for Change 2016
 ## June 3-5th @ St. Edwards University
 
-#### [Register for the Hackathon](http://atxhackforchange.org/attend.html)
-#### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/project-ideas/issues)
-#### [:star2: Propose a New Project Idea :star2:](https://github.com/open-austin/project-ideas/issues/new)
-#### [:floppy_disk: View List of our Active/Achieved Projects :floppy_disk:](http://www.open-austin.org/hack-team/projects)
+#### [:rocket: Register for the Hackathon](http://atxhackforchange.org/attend.html)
+#### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
+#### [:star2: Propose a New Project Idea :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
 
 ## How To Propose or Discuss Project Ideas
 
