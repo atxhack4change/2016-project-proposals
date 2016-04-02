@@ -1,8 +1,8 @@
-Short description of the idea (140 character tweet):
+## Short description of the idea (140 character tweet):
 
 Your short answer
 
-What is your project concept or idea? What challenge or opportunity will it solve?
+## What is your project concept or idea? What challenge or opportunity will it solve?
 
 Your answer
 
