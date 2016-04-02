@@ -4,8 +4,8 @@
 ## June 3-5th @ St. Edwards University
 
 #### [:rocket: Register :rocket:](http://atxhackforchange.org/attend.html)
-#### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
-#### [:star2: Propose a New Project Idea :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
+#### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
+#### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
 
 ## How To Propose or Discuss Project Ideas
 
