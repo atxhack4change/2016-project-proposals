@@ -29,8 +29,5 @@ After this date, the project curation committee (which includes representatives 
 
 Finalist projects will be announced on May 23. And all registered ATX Hack for Change participants will receive the final list via email. Additionally, at the Friday kickoff event, the list will be available in print for those that might have missed it.
 
-## Are there any prizes?
-
-Judges and Sponsors will award their prizes to projects that suit their interests, but the main prize is spending a weekend working on kickass projects that have impact.
 
 ![Submission Timeline](./submission-timeline.png)
