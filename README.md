@@ -1,7 +1,7 @@
 ![ATX Hack for Change Logo](./atx-hack-for-change.png)
 
 # ATX Hack for Change 2016
-## Jun. 3-5, held @ St. Edwards University
+## June 3-5 held @ St. Edwards University
 
 #### [:rocket: Register as a Hacker :rocket:](http://atxhackforchange.org/attend.html)
 #### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
@@ -19,12 +19,16 @@ If you see an idea that you're interested in, click on it, read the discussion a
 
 ## I've added my project idea. What comes next?
 
-### The submission deadline is May 8. 
+The submission deadline is May 8. 
 
 ## I've submitted my project. What comes next?
 
 After this date, the project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office), will send a second round of questions to potential project champions.
 
 Finalist projects will be announced on May 23. And all registered ATX Hack for Change participants will receive the final list via email. Additionally, at the Friday kickoff event, the list will be available in print for those that might have missed it.
+
+## Are there any prizes?
+
+Judges and Sponsors will award their prizes to projects that suit their interests, but the main prize is spending a weekend working on kickass projects that have impact.
 
 ![Submission Timeline](./submission-timeline.png)
