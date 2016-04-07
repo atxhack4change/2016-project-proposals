@@ -9,8 +9,10 @@
 
 ## Wondering how to propose or discuss your project ideas?
 
-[GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the internet. 
+[GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. 
+
 First, you'll need to [create an account](https://github.com/join). 
+
 Then you have two options: (1) comment on an existing idea (a.k.a. "issue"), or (2) create a new idea.
 
 If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/open-austin/atx-hack-for-change-2016/issues/new). Someone from the ATX Hack for Change Staff will respond with some questions or feedback. 
