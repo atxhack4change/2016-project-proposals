@@ -17,5 +17,10 @@ If you see an idea that you're interested in, click on it, read the discussion, 
 
 ## I've added my project idea. What comes next?
 
-_We will add some next steps shortly._
+### The submission deadline is Sunday, May 8th.
+
+After this date, the project curation committee (which includes representatives from the St. Edwards University, Open Austin, and the City of Austin Innovation Office), will send a second round of questions to potential project champions.
+
+Finalist projects will be announced on May 23rd.
+
 ![Submission Timeline](./submission-timeline.png)
