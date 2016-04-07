@@ -1,4 +1,4 @@
-![](./atx-hack-for-change.png)
+![ATX Hack for Change Logo](./atx-hack-for-change.png)
 
 # ATX Hack for Change 2016
 ## June 3-5th @ St. Edwards University
@@ -18,3 +18,4 @@ If you see an idea that you're interested in, click on it, read the discussion, 
 ## I've added my project idea. What comes next?
 
 _We will add some next steps shortly._
+![Submission Timeline](./submission-timeline.png)
