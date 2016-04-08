@@ -13,7 +13,7 @@ _If you need help or have some specific questions, email info@open-austin.org._
 
 ## Wondering how to propose or discuss your project ideas?
 
-[GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. 
+[GitHub Issues](https://guides.github.com/features/issues/) works just like any other commenting system on the Internet. 
 
 First, you'll need to [create an account](https://github.com/join). 
 
