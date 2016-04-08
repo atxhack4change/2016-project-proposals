@@ -6,16 +6,14 @@ _Your short answer_
 
 _Your answer_
 
-## Who will benefit from your project? 
-### Describe the humans at the center of the problem - who are they? 
-### How would they benefit?  
-### Can you tell their story?
+## Who will benefit from your project? Describe the humans at the center of the problem - who are they? 
+### How would they benefit? Can you tell their story?
 ### Do you have photos of them? Or quotes?
 
 _Your answer_
 
 ## Issue area(s) relevant to your project idea: 
-### [Look at the right sidebar :arrow_right:! Do you see the Labels? Pick a few]
+### [Look at the right sidebar :arrow_right: ! Do you see the Labels? Pick a few]
 
 - Arts & Culture
 - Children & Youth
@@ -33,7 +31,7 @@ _Your answer_
 - Sustainability
 - Other
 
-## What is the current state of your project idea? [Pick more labels]
+## What is the current state of your project idea? [Pick more labels :arrow_right: ]
 
 - I have a **fuzzy** area of opportunity but don’t yet fully understand the challenge
 - I understand the **challenge** well but don’t yet have ideas for a solution
@@ -41,7 +39,7 @@ _Your answer_
 - I tested a **prototype** and want to build it
 
 ## Tell us more about the current state of your project idea.
-### Do you have any links to mockups, code, data or text?
+### Do you have any links to text, mockups, code, or data?
 
 _Your answer_
 
