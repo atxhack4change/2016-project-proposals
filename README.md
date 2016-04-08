@@ -7,6 +7,10 @@
 #### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
 #### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
 
+### Proposal submission deadline is May 8th. 
+
+_If you need help or have some specific questions, email info@open-austin.org._
+
 ## Wondering how to propose or discuss your project ideas?
 
 [GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. 
@@ -19,15 +23,11 @@ If you see an idea that you're interested in, click on it, read the discussion a
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
-## I've added my project idea. What comes next?
+## I've submitted my proposal. What comes next?
 
-The submission deadline is May 8. 
+After May 8th, the project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office) will follow up with potential project champions. 
 
-## I've submitted my project. What comes next?
-
-After this date, the project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office), will send a second round of questions to potential project champions.
-
-Finalist projects will be announced on May 23. And all registered ATX Hack for Change participants will receive the final list via email. Additionally, at the Friday kickoff event, the list will be available in print for those that might have missed it.
+Finalist projects will be announced on May 23. All registered ATX Hack for Change participants will receive the announced projects and challenges. Additionally, at the Friday, June 3rd kickoff event, the final projects listing will be available in print for those that might have missed it.
 
 
 ![Submission Timeline](./submission-timeline.png)
