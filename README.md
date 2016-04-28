@@ -1,6 +1,7 @@
+# ATX Hack for Change 2016
+
 ![ATX Hack for Change Logo](./atx-hack-for-change.png)
 
-# ATX Hack for Change 2016
 ## June 3-5 held @ St. Edwards University
 
 #### [:rocket: Register as a Hacker :rocket:](http://atxhackforchange.org/attend.html)
