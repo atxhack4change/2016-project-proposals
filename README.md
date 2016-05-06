@@ -8,7 +8,7 @@
 #### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
 #### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
 
-### Proposal submission deadline is May 8th. 
+### Proposal submission deadline is May 23rd.
 
 _If you need help or have some specific questions, email info@open-austin.org._
 
