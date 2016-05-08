@@ -28,7 +28,7 @@ If you see an idea that you're interested in, click on it, read the discussion a
 
 After May 8th, the project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office) will follow up with potential project champions. 
 
-Finalist projects will be announced on May 23. All registered ATX Hack for Change participants will receive the announced projects and challenges. Additionally, at the Friday, June 3rd kickoff event, the final projects listing will be available in print for those that might have missed it.
+Finalist projects will be announced on May 27. All registered ATX Hack for Change participants will receive the announced projects and challenges. Additionally, at the Friday, June 3rd kickoff event, the final projects listing will be available in print for those that might have missed it.
 
 
-![Submission Timeline](./submission-timeline.png)
+![Submission Timeline](http://dsh.re/66bb9)
