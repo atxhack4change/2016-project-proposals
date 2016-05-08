@@ -36,7 +36,7 @@ _Your answer_
 - I tested a **prototype** and want to build it
 
 ## Tell us more about the current state of your project idea.
-### Do you have any links to text, mockups, code, or data?
+### Do you have any links to news articles, text, mockups, code, or data?
 
 _Your answer_
 
