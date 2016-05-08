@@ -12,15 +12,13 @@ _Your answer_
 
 _Your answer_
 
-## Issue area(s) relevant to your project idea: 
-### [Look at the right sidebar :arrow_upper_right: ! Do you see the Labels? Pick a few]
+## Issue area(s) relevant to your project idea:
 
 - Arts & Culture
 - Children & Youth
-- Economic Development
-- Economic Opportunity
+- Economic Opportunity & Development
 - Education
-- Environment
+- Environment & Sustainability
 - Food/Hunger
 - Health
 - Housing
@@ -28,10 +26,9 @@ _Your answer_
 - Neighborhoods
 - Open Government/Transparency
 - Public Safety
-- Sustainability
 - Other
 
-## What is the current state of your project idea? [Pick more labels :arrow_upper_right: ]
+## What is the current state of your project idea?
 
 - I have a **fuzzy** area of opportunity but don’t yet fully understand the challenge
 - I understand the **challenge** well but don’t yet have ideas for a solution
