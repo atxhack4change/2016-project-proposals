@@ -8,27 +8,21 @@
 #### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
 #### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
 
-### Proposal submission deadline is May 23rd.
-
-_If you need help or have some specific questions, email info@open-austin.org._
-
-## Wondering how to propose or discuss your project ideas?
-
-[GitHub Issues](https://guides.github.com/features/issues/) works just like any other commenting system on the Internet.
-
-First, you'll need to [create an account](https://github.com/join).
-
-Then you have two options: (1) comment on an existing idea (a.k.a. "issue"), or (2) create a new idea.
-
-If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/open-austin/atx-hack-for-change-2016/issues/new). Someone from the ATX Hack for Change Staff will respond with some questions or feedback.
-
-*Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
+### The proposal submission deadline of May 23rd has passed. If you are late to the party, feel free to submit your idea but it will be waitlisted.
 
 ## I've submitted my proposal. What comes next?
+The project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office) will follow up with potential project champions and let them know if their project proposal has been accepted.
 
-After May 8th, the project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office) will follow up with potential project champions.
+Finalist projects will be announced by May 27. All registered ATX Hack for Change participants will receive the announced projects and challenges. Additionally, at the Friday, June 3rd kickoff event, the final projects listing will be available in print for those that might have missed it.
 
-Finalist projects will be announced on May 27. All registered ATX Hack for Change participants will receive the announced projects and challenges. Additionally, at the Friday, June 3rd kickoff event, the final projects listing will be available in print for those that might have missed it.
+## Once your project is accepted, here are some things we suggest you do next!
+1. Work on your project pitch. Here is a [slide deck with some helpful resources](https://stedwards.box.com/s/3tedclh520vfo1681j4qx91tfp453lmu) on crafting a 60 second pitch.
+2. Create a new Github repo for your project. [need help?](https://help.github.com/articles/create-a-repo/)
+3. In your new repo, create a README file explaining the details of your project. Feel free to copy/paste from your project submission. But also try to make it concise. Imagine you are new to the project, what would help you get started? Here are some tips on [what should go on your README](http://atxhack4change.github.io/tech-and-tools/#/3/2).
+4. Add Issues to your Github Repo to organize the tasks that your team will need to perform. [Here is some guidance](http://atxhack4change.github.io/tech-and-tools/#/3/4)
+5. [Take a survey](http://bit.do/atxhack-style) to discover your creative problem solving style. Learn more about the Basador profile from [these slides](https://stedwards.box.com/s/4wcackr8isebcsb54eecv3a1wcvx4s0v).
+6. Log into the ATX Hack for Change [Slack Group](https://atxhack4change.slack.com) and create a channel for your project. If you don't have access, [let us know](mailto:info@open-austin.org).
+7. Use the [Civic Tech Planning Canvas](http://www.open-austin.org/civic-tech-canvas/) to flesh out your idea.
 
 
 ![Submission Timeline](./images/TimelineUpdated.jpg)
