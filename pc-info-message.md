@@ -13,7 +13,7 @@ Project pitches will take place on **Saturday, June 4, at 9:00 AM at the St. Edw
 Here’s how the pitching will work:
 - **Timing:** Each project champion will get 60 seconds (1 minute) to pitch their idea.
 - **Format:** Project champions will grab the mic and pitch their project from the Alumni Gym stage. 
-- **Pitching Order:** [The order in which the projects will pitch is linked here.](https://github.com/atxhack4change/2016-project-proposals/blob/master/Project%20Pitch%20Schedule%20(6-1%20Update).pdf)
+- **Pitching Order:** [The order in which the projects will pitch is linked here.](https://github.com/atxhack4change/2016-project-proposals/blob/master/Project Pitch Schedule.pdf)
 - **Visuals:** We will have a default slide for each project with the project title, project champion name, and Slack channel. Additionally, you may also provide one visual (that can fit on a powerpoint slide) during your pitch. 
 
 ### If you want to use one visual during your pitch, send it to innovation@austintexas.gov no later than Wednesday, June 1st, at 10:00 PM.
