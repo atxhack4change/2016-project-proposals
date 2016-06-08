@@ -11,7 +11,7 @@ Here is a listing of all the projects that were presented:
 
 | Project                                                                                     | Code & Other Links                                                               | 
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [Permit Application Wizard](https://permit-wiz.herokuapp.com/):classical_building:          | [Github](https://github.com/open-austin/permit-server)                           |
+| [Permit Application Wizard](https://permit-wiz.herokuapp.com/) 🏛                           | [Github](https://github.com/open-austin/permit-server)                           |
 | BRAVE Volunteer Rewards App                                                                 | [Github](https://github.com/jamesjackson/braveapp)                               |
 | Texas Veteran Education Benefits                                                            | [Invision Mockup](https://projects.invisionapp.com/share/7G7JFMMCS#/screens/164299780) |
 | Internet of Bees                                                                            | [Github](https://github.com/chrisdhanaraj/internetofbees/)                       |
@@ -28,14 +28,14 @@ Here is a listing of all the projects that were presented:
 | [Welcome Basket](http://ludwigmace.github.io/atxbasket/#/)                                  | [Github](https://github.com/ludwigmace/atxbasket)                                |
 | [Food Hero](http://food-donate.herokuapp.com/)                                              | [Github](https://github.com/rubygeek/food_donate)                                |
 | [Rolling With Advantage](http://www.rollingwithadvantage.com)                               | [Github](https://github.com/RollingWithAdvantage) & [Twitter](http://www.twitter.com/RollingWAdvantage) & [Facebook](http://www.facebook.com/rollingwithadvantage/) |
-| Find My Open Park :classical_building:                                                      | [Github](https://github.com/wrays/find-my-open-park) & [Google Slides](https://docs.google.com/presentation/d/1gH-l33GbELcQlqxIToG8zglRXoZsZBub2sqdzSUMAuE/edit#slide=id.p) |
-| [Open Gov Partnership -> Crossfit for Democracy](http://cityofaustin.github.io/open-gov-partnership/) :classical_building: | [Github](https://github.com/cityofaustin/open-gov-partnership/tree/gh-pages) |
+| Find My Open Park 🏛                                                                        | [Github](https://github.com/wrays/find-my-open-park) & [Google Slides](https://docs.google.com/presentation/d/1gH-l33GbELcQlqxIToG8zglRXoZsZBub2sqdzSUMAuE/edit#slide=id.p) |
+| [Open Gov Partnership -> Crossfit for Democracy](http://cityofaustin.github.io/open-gov-partnership/) 🏛 | [Github](https://github.com/cityofaustin/open-gov-partnership/tree/gh-pages) |
 | Auction Bot - Facebook Messenger Bot for Charity Fundraising                                | [GH Frontend](https://github.com/krismuniz/auctionbot) & [GH Server](https://github.com/aaronbenz/auctionbot-back) & [Google Slides](https://docs.google.com/presentation/d/1YHRu6xhLcEZnGyhftL83kgWcwQYARghZmcPnHWNqDZk/edit#slide=id.g128b1b71f0_0_269) |
 | [Disable Athlete Health/Equipment Monitoring System](https://dahmos.org/)                   | [Github](https://github.com/Bokbot/damn-hardware)                                |
-| [Austin Budget Simulator](http://www.austintexas.gov/dollarsandsense) :classical_building:  |                                                                                  |
+| [Austin Budget Simulator](http://www.austintexas.gov/dollarsandsense) 🏛                    |                                                                                  |
 | [Impact Map](http://Impactmap.us) - Giving Decisions Based on Big Data                      | [Github](https://github.com/deirdrewalsh/Big-Data-4-Giving-)                     |
 | Billtracker                                                                                 | [Github](https://github.com/bill-tracker)                                        |
 | Tiny Hacker House                                                                           |                                                                                  |
-| Mapping Austin's Culture :classical_building:                                               | [Google Form Survey](https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform) |
+| Mapping Austin's Culture 🏛                                                                 | [Google Form Survey](https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform) |
 
-_:classical_building: Indicates project lead by City of Austin employee_
+_🏛 Indicates project lead by City of Austin employee_
