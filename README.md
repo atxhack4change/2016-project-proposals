@@ -38,4 +38,4 @@ Here is a listing of all the projects that were presented:
 | Tiny Hacker House                                                                           |                                                                                  |
 | Mapping Austin's Culture 🏛                                                                 | [Google Form Survey](https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform) |
 
-_🏛 Indicates project lead by City of Austin employee_
+🏛 _Indicates project led by City of Austin employee_
