@@ -5,6 +5,10 @@
 
 ### The ATX Hack for Change 2016 is a wrap! 
 
+![Group photo](https://pbs.twimg.com/media/CkYefPnVAAEz5wT.jpg:large)
+
+### Projects
+
 To see all the projects that were proposed at the 2016 ATX Hack for Change, [visit the issues list](https://github.com/open-austin/atx-hack-for-change-2016/issues).
 
 Here is a listing of all the projects that were presented:
@@ -39,3 +43,4 @@ Here is a listing of all the projects that were presented:
 | Mapping Austin's Culture 🏛                                                                 | [Google Form Survey](https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform) |
 
 🏛 _Indicates project led by City of Austin employee_
+
