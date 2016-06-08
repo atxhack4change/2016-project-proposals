@@ -27,7 +27,7 @@ Here is a listing of all the projects that were presented:
 | BlueChasm Smart Sprinkler System                                                            | [Github](https://github.com/jrriosBC/smart-sprinkler)                            |
 | [Community Open Data Portal aka PANDA](http://amaliebarras.github.io/data-portal-new/)      | [Github](https://github.com/amaliebarras/data-portal-new)                        |
 | [Expunge Texas](http://expungetexas.org/index.html)                                         | [Github](https://github.com/kkarsnia/expunge)                                    |
-| [The Titans Project: Teens in Tech](http://www.thetitansproject.com)                        |                                                                                  |
+| [The Titans Project: Teens in Tech](http://www.thetitansproject.com)                        | [Github](https://github.com/codykeith/TITANS)                                    |
 | Safety Mapping                                                                              | [GH Frontend](https://github.com/Sahedeva/bikePed2) & [GH Backend](https://github.com/Sahedeva/bikePedBackEnd) |
 | [Welcome Basket](http://ludwigmace.github.io/atxbasket/#/)                                  | [Github](https://github.com/ludwigmace/atxbasket)                                |
 | [Food Hero](http://food-donate.herokuapp.com/)                                              | [Github](https://github.com/rubygeek/food_donate)                                |
