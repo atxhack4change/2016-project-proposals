@@ -45,9 +45,3 @@ Here is a listing of all the projects that were presented:
 | Mapping Austin's Culture                                                                    |                                                                                  | https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform                                                                             |                                                                                                     | YES             | 
 | Water Conservation Calculator                                                               |                                                                                  |                                                                                                                                                                   |                                                                                                     | YES             | 
 | Bike Safety                                                                                 |                                                                                  |                                                                                                                                                                   |                                                                                                     |                 | 
-
-
-#### [:bulb: Browse and Discuss Projects :bulb:]()
-#### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
-
-
